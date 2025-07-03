@@ -28,15 +28,6 @@ Fonctionnalités principales :
 
 
 Installation :
-	# Cloner le dépôt
-		git clone https://github.com/mon-entreprise/sas-access.git
-		
-
-	# Installer les dépendances
-		
-
-	# Lancer l’application
-		
 
 Arborescence : 
 	- Front-end : REACT (JavaScript)
