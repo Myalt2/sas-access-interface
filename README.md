@@ -15,14 +15,11 @@ Statut du projet :
 Fonctionnalités principales :
 	1.Traitement et compréhension de la demande utilisateur
 		Compréhension du langage naturel en français
-
 	2.Clarification et enrichissement
 		Interaction avec l’utilisateur pour affiner la requête si nécessaire
-
 	3.Exécution des actions dans le logiciel adapté
 		Lancement automatique en fonction de l'intéraction
 		Extraction et mise en forme des résultats 
-
 	4.Restitution au format adapté
 		Présentation des résultats 
 
