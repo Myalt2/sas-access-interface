@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://Myalt2.github.io/sas-access-interface/static/css/main.bb386b75.css",
-    "main.js": "https://Myalt2.github.io/sas-access-interface/static/js/main.df92e002.js",
-    "static/js/453.ec5e1427.chunk.js": "https://Myalt2.github.io/sas-access-interface/static/js/453.ec5e1427.chunk.js",
-    "static/media/icon3.png": "https://Myalt2.github.io/sas-access-interface/static/media/icon3.bf62d265179a8e82c58a.png",
-    "static/media/icon2.png": "https://Myalt2.github.io/sas-access-interface/static/media/icon2.a2cdd667b27cc7547ec6.png",
-    "static/media/icon6.png": "https://Myalt2.github.io/sas-access-interface/static/media/icon6.69915bd744c3691bf719.png",
-    "static/media/icon1.png": "https://Myalt2.github.io/sas-access-interface/static/media/icon1.2069a0c175c7bcf3189b.png",
-    "static/media/icon4.png": "https://Myalt2.github.io/sas-access-interface/static/media/icon4.7d5c9dba9cbce385d010.png",
-    "static/media/icon5.png": "https://Myalt2.github.io/sas-access-interface/static/media/icon5.16efeec491376cdf08e5.png",
-    "index.html": "https://Myalt2.github.io/sas-access-interface/index.html",
-    "main.bb386b75.css.map": "https://Myalt2.github.io/sas-access-interface/static/css/main.bb386b75.css.map",
-    "main.df92e002.js.map": "https://Myalt2.github.io/sas-access-interface/static/js/main.df92e002.js.map",
-    "453.ec5e1427.chunk.js.map": "https://Myalt2.github.io/sas-access-interface/static/js/453.ec5e1427.chunk.js.map"
+    "main.css": "/sas-access-interface/static/css/main.bb386b75.css",
+    "main.js": "/sas-access-interface/static/js/main.06f2e1a6.js",
+    "static/js/453.ec5e1427.chunk.js": "/sas-access-interface/static/js/453.ec5e1427.chunk.js",
+    "static/media/icon3.png": "/sas-access-interface/static/media/icon3.bf62d265179a8e82c58a.png",
+    "static/media/icon2.png": "/sas-access-interface/static/media/icon2.a2cdd667b27cc7547ec6.png",
+    "static/media/icon6.png": "/sas-access-interface/static/media/icon6.69915bd744c3691bf719.png",
+    "static/media/icon1.png": "/sas-access-interface/static/media/icon1.2069a0c175c7bcf3189b.png",
+    "static/media/icon4.png": "/sas-access-interface/static/media/icon4.7d5c9dba9cbce385d010.png",
+    "static/media/icon5.png": "/sas-access-interface/static/media/icon5.16efeec491376cdf08e5.png",
+    "index.html": "/sas-access-interface/index.html",
+    "main.bb386b75.css.map": "/sas-access-interface/static/css/main.bb386b75.css.map",
+    "main.06f2e1a6.js.map": "/sas-access-interface/static/js/main.06f2e1a6.js.map",
+    "453.ec5e1427.chunk.js.map": "/sas-access-interface/static/js/453.ec5e1427.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb386b75.css",
-    "static/js/main.df92e002.js"
+    "static/js/main.06f2e1a6.js"
   ]
 }
