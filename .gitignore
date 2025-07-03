@@ -1,0 +1,20 @@
+# Dossiers de code séparés
+backend/
+frontend/
+react-temp/
+
+# Fichiers de log et temporaires
+*.log
+*.tmp
+
+# Node modules
+node_modules/
+
+# Systèmes d’exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de config locaux
+config.yaml
+secrets.json
+.env
